@@ -55,7 +55,45 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 
 ## Repository Creation
 
+To start a local repository, you run
+
+```shell
+git ANSWER
+```
+
 ## Adding Files and Making Changes
+
+To select files that you have changed, you run
+
+```shell
+git ANSWER
+```
+
+To list what files have changed, you run
+
+```shell
+git ANSWER
+```
+
+To list the specific changes in a file, you run
+
+```shell
+git ANSWER
+```
+
+To record changes that have been made, you run
+
+```shell
+git ANSWER
+```
+
+To see the history of changes, you run
+
+```shell
+git ANSWER
+```
+
+## Branching and Merging
 
 ## Collaborating
 
