@@ -24,3 +24,12 @@ This is a class that covers the following topics on how to use git.
 ## Bonus Material
 
 ## Additional Resources
+
+In no particular order, here are a few additional resources on git
+
+* https://try.github.io
+  * This is a tutorial sponsored by GitHub and goes through everything covered in this class with a few more basic commands.
+* http://gitimmersion.com/
+  * This is an in depth step by step guide that goes through everything in this class and it goes even more in depth.
+* http://rogerdudler.github.io/git-guide/
+  * This is a good, quick reference to use when you forget a command.
