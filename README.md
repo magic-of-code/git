@@ -23,6 +23,32 @@ This is a class that covers the following topics on how to use git.
 
 ## Bonus Material
 
+### Compact Log Command
+
+```shell
+git log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+```
+
+### Private Repositories
+
+By default, GitHub makes your repositories public. This is great for [open source](https://en.wikipedia.org/wiki/Open-source_software) work.
+
+If you want your work to be private, you either need to
+
+* Have a student account
+* Pay for GitHub
+* Switch to another service like BitBucket, which gives you a few free private repositories
+
+### Deleting Branches
+
+To delete a branch, you want to run
+
+```shell
+git branch -D name-of-branch
+```
+
+Replace `name-of-branch` with whatever the name of your branch is.
+
 ## Additional Resources
 
 In no particular order, here are a few additional resources on git
