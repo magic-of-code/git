@@ -13,6 +13,28 @@ This is a class that covers the following topics on how to use git.
 
 ## What and Why
 
+### Why are they useful?
+
+[git](https://git-scm.com/) and [GitHub](https://github.com/) prevent you from losing work if you accidentally delete your files, or something terrible happens to your computer.
+
+They also make it easy to collaborate with others on the same project without worrying about if everyone is on the same version.
+
+You are also provided a history of every change, and if working with others, who made those changes.
+
+### What is git?
+
+git is a [command line (or terminal, or command prompt)](https://en.wikipedia.org/wiki/Command-line_interface) tool that lets you easily track changes to your files so you no longer have to name files doc_version_1.txt, doc_version_2.txt, doc_final.txt, doc_final_final.txt.
+
+git also makes it easy for you to separate your work into chunks (more commonly known as [branches](#branching-and-merging) and merge everything back together later.
+
+You may hear it called a version control system, or VCS
+
+### What is GitHub?
+
+GitHub is a website that works with git, so you can store your files online, similar to Dropbox or Google Drive.
+
+With GitHub being online, that makes it easy for you to share your work with others, and collaborate on a project together.
+
 ## Setup
 
 ## Repository Creation
