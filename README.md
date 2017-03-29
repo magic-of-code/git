@@ -37,6 +37,22 @@ With GitHub being online, that makes it easy for you to share your work with oth
 
 ## Setup
 
+### Install Git
+
+Note: you only have to do this once. If you already have git, you can skip this step.
+
+1. Go to [git-scm.com/downloads](git-scm.com/downloads).
+2. Click your specific operating system
+  * If you are on Windows, set git to use Git Bash only, and agree with the rest of the defaults.
+
+### Creating a GitHub account
+
+Note: you only have to do this once. If you already have a GitHub account, you can skip this step.
+
+1. Go to [github.com](github.com)
+2. Click continue through all the steps
+  * You can choose to tailor your experience if you want. I do not know what effect it has on your account.
+
 ## Repository Creation
 
 ## Adding Files and Making Changes
