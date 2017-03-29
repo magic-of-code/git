@@ -93,9 +93,71 @@ To see the history of changes, you run
 git ANSWER
 ```
 
+To connect a local repository to a remote one, you run
+
+```shell
+git ANSWER
+```
+
+To send your files and changes to a remote repository, you first run
+
+```shell
+git ANSWER
+```
+
+Once you have initially sent your files to the remote, you can then run
+
+```shell
+git ANSWER
+```
+
 ## Branching and Merging
 
+To start a new branch, you run
+
+```shell
+git ANSWER
+```
+
+To list branches, you run
+
+```shell
+git ANSWER
+```
+
+To change branches, you run
+
+```shell
+git ANSWER
+```
+
+To merge branches, you run
+
+```shell
+git ANSWER
+```
+
+To handle merge conflicts, you will need to manually go through the file(s) with conflicts and pick the changes you want to keep.
+
 ## Collaborating
+
+To copy a repository from GitHub to your machine, you run
+
+```shell
+git ANSWER
+```
+
+To connect your local repository to a remote repo you are not a member of, you run
+
+```shell
+git ANSWER
+```
+
+To pull in changes someone else has made, you run
+
+```shell
+git ANSWER
+```
 
 ## Bonus Material
 
