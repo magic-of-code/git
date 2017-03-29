@@ -55,109 +55,109 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 
 ## Repository Creation
 
-To start a local repository, you run
+1. To start a local repository, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
 ## Adding Files and Making Changes
 
-To select files that you have changed, you run
+1. To select files that you have changed, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To list what files have changed, you run
+1. To list what files have changed, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To list the specific changes in a file, you run
+1. To list the specific changes in a file, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To record changes that have been made, you run
+1. To record changes that have been made, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To see the history of changes, you run
+1. To see the history of changes, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To connect a local repository to a remote one, you run
+1. To connect a local repository to a remote one, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To send your files and changes to a remote repository, you first run
+1. To send your files and changes to a remote repository, you first run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-Once you have initially sent your files to the remote, you can then run
+1. Once you have initially sent your files to the remote, you can then run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
 ## Branching and Merging
 
-To start a new branch, you run
+1. To start a new branch, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To list branches, you run
+1. To list branches, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To change branches, you run
+1. To change branches, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To merge branches, you run
+1. To merge branches, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
 To handle merge conflicts, you will need to manually go through the file(s) with conflicts and pick the changes you want to keep.
 
 ## Collaborating
 
-To copy a repository from GitHub to your machine, you run
+1. To copy a repository from GitHub to your machine, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To connect your local repository to a remote repo you are not a member of, you run
+1. To connect your local repository to a remote repo you are not a member of, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
-To pull in changes someone else has made, you run
+1. To pull in changes someone else has made, you run
 
-```shell
-git ANSWER
-```
+  ```shell
+  git ANSWER
+  ```
 
 ## Bonus Material
 
