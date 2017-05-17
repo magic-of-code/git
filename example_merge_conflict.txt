@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+Intro
+
+This chapter is about....
+=======
+Dedication
+
+Dedicated to Neo
+>>>>>>> add-dedication
+
+Chapter 2 - The Pool of Tears
+
+‘Curiouser and curiouser!’ cried Alice...
