@@ -58,7 +58,7 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To start a local repository, you run
 
     ```shell
-    git ANSWER
+    git init
     ```
 
 ## Adding Files and Making Changes
