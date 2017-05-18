@@ -58,7 +58,7 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To start a local repository, you run
 
     ```shell
-    git ANSWER
+    git init
     ```
 
 ## Adding Files and Making Changes
@@ -72,7 +72,7 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To list what files have changed, you run
 
     ```shell
-    git ANSWER
+    git pull request
     ```
 
 1. To list the specific changes in a file, you run
@@ -90,7 +90,7 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To see the history of changes, you run
 
     ```shell
-    git ANSWER
+    git status
     ```
 
 1. To connect a local repository to a remote one, you run
@@ -116,13 +116,13 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To start a new branch, you run
 
     ```shell
-    git ANSWER
+    git checkout branch
     ```
 
 1. To list branches, you run
 
     ```shell
-    git ANSWER
+    git branch
     ```
 
 1. To change branches, you run
@@ -134,7 +134,7 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To merge branches, you run
 
     ```shell
-    git ANSWER
+    git merge name
     ```
 
 To handle merge conflicts, you will need to manually go through the file(s) with conflicts and pick the changes you want to keep.
