@@ -66,49 +66,49 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To select files that you have changed, you run
 
     ```shell
-    git ANSWER
+    git add <filename>
     ```
 
 1. To list what files have changed, you run
 
     ```shell
-    git ANSWER
+    git log
     ```
 
 1. To list the specific changes in a file, you run
 
     ```shell
-    git ANSWER
+    git dif
     ```
 
 1. To record changes that have been made, you run
 
     ```shell
-    git ANSWER
+    git commit -m 'text'
     ```
 
 1. To see the history of changes, you run
 
     ```shell
-    git ANSWER
+   git status
     ```
 
 1. To connect a local repository to a remote one, you run
 
     ```shell
-    git ANSWER
+    git pull
     ```
 
 1. To send your files and changes to a remote repository, you first run
 
     ```shell
-    git ANSWER
+    git push origin master
     ```
 
 1. Once you have initially sent your files to the remote, you can then run
 
     ```shell
-    git ANSWER
+    git pull
     ```
 
 ## Branching and Merging
@@ -116,13 +116,14 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To start a new branch, you run
 
     ```shell
-    git ANSWER
+    git checkout -b <branch name>
+
     ```
 
 1. To list branches, you run
 
     ```shell
-    git ANSWER
+    git branch
     ```
 
 1. To change branches, you run
@@ -134,7 +135,7 @@ Note: you only have to do this once. If you already have a GitHub account, you c
 1. To merge branches, you run
 
     ```shell
-    git ANSWER
+    git merge <branch>
     ```
 
 To handle merge conflicts, you will need to manually go through the file(s) with conflicts and pick the changes you want to keep.
